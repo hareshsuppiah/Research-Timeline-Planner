@@ -6,7 +6,7 @@ Perfect for PhD students, postdocs, research teams, and anyone managing complex 
 
 ---
 
-![Research Timeline Planner Screenshot](CleanShot%202025-09-30%20at%2014.17.09@2x.png)
+![Research Timeline Planner Screenshot](CleanShot%202025-10-01%20at%2008.26.32@2x.png)
 *Example showing a PhD timeline with confirmation subtasks, study planning, and automatic Gantt chart visualization*
 
 ---
@@ -14,7 +14,7 @@ Perfect for PhD students, postdocs, research teams, and anyone managing complex 
 ## 📥 How to Download
 
 **Option 1: Direct Download (Easiest)** ⭐
-1. Click on the file name: **`Research_Timeline_Planner.xlsx`**
+1. Click on the file name: **`Research_Timeline_Planner_V101.xlsx`**
 2. Click the **"Download"** button (or **"Download raw file"** button in the top right)
 3. Save the file to your computer
 4. Open with Microsoft Excel, Google Sheets, or LibreOffice
@@ -43,7 +43,6 @@ Perfect for PhD students, postdocs, research teams, and anyone managing complex 
 - [Technical Details](#-technical-details)
 - [Troubleshooting](#-troubleshooting)
 - [Version History](#-version-history)
-- [Contributing](#-contributing)
 - [License](#-license)
 
 ---
@@ -118,7 +117,7 @@ Add unlimited projects, milestones, and tasks. Extend timeline beyond 2032 by co
 ## 🚀 Getting Started
 
 ### Step 1: Open the File
-Download `Research_Timeline_Planner.xlsx` and open in your preferred spreadsheet application (Excel recommended).
+Download `Research_Timeline_Planner_V101.xlsx` and open in your preferred spreadsheet application (Excel recommended).
 
 ### Step 2: Review the Example
 The template includes a pre-populated PhD timeline example showing:
@@ -165,31 +164,6 @@ As your research progresses:
 | **H** | **Progress** | Completion state | Dropdown: Not Started ⚫ / In Progress 🟡 / Complete 🟢 |
 | **I+** | **Timeline** | Automatic Gantt chart visualization | Auto-generated (don't edit manually) |
 
-### Column Usage Tips
-
-**Project/Milestone/Task (Column A)**
-- Use **bold** for top-level projects
-- Use indentation for visual hierarchy:
-  - Project (no indent)
-    - Milestone (1-2 spaces)
-      - Subtask (3-4 spaces)
-
-**Start/Finish Dates (Columns B & C)**
-- Use consistent date format: `Jan-25`, `Feb-25`, etc.
-- Excel will auto-format if you type dates like `1/1/2025`
-- End date must be same month or later than start date
-
-**Dependencies (Column D)**
-- Reference task names: "Ethics approval", "Pilot study complete"
-- Use this to identify critical path in your project
-
-**Risks (Column E)**
-- Be specific: "Recruitment may be slow in summer months"
-- Think about: timing, resources, external factors, approvals
-
-**Outputs (Column F)**
-- Tangible deliverables: "Journal article submitted", "Chapter draft"
-- Use this column to ensure every task produces something
 
 ---
 
@@ -350,28 +324,27 @@ All formulas use proper cell references:
 
 **Solution:**
 1. 📧 Open an issue on GitHub with your question
-2. 📧 Contact the creator (see [Contact](#-contact) section)
-3. 📖 Review the **Instructions** sheet within the Excel file
+2. 📖 Review the **Instructions** sheet within the Excel file
 
 ---
 
 ## 📝 Version History
 
-See [CHANGELOG.md](CHANGELOG.md) for detailed version history.
+**Current Version: v1.0.1** (October 2025)
 
-**Current Version: v1.0.0**
+### v1.0.1 - October 2025
+- Enhanced timeline visualization with improved Gantt chart
+- Better support for long project names
+- Improved formula efficiency
+- Updated example projects
 
----
+### v1.0.0 - September 2025
+- Initial release with core features
+- Gantt chart visualization
+- Status and progress tracking
+- Pre-populated PhD example
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on:
-- 🐛 Reporting bugs
-- 💡 Suggesting new features
-- 🔧 Submitting improvements
-- 📧 Contact information
+**Note:** Older versions are available in the Archived folder for reference.
 
 ---
 
@@ -397,6 +370,3 @@ If this tool helped your research planning, consider:
 - 💬 **Providing feedback** via GitHub issues
 - 🤝 **Contributing** improvements back to the project
 
----
-
-**Built for researchers, by researchers. Happy planning! 🎓📊**
