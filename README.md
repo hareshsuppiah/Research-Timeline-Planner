@@ -344,7 +344,7 @@ All formulas use proper cell references:
 - Status and progress tracking
 - Pre-populated PhD example
 
-**Note:** Older versions are available in the Archived folder for reference.
+**Note:** Previous versions (v1.0.0) are available in the `Archived/` folder for reference.
 
 ---
 

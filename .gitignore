@@ -40,6 +40,5 @@ GIT_SETUP.md
 VIDEO_TUTORIAL.md
 **/VIDEO_TUTORIAL.md
 
-# Archived versions
-Archived/
-Research_Timeline_Planner.xlsx
+# Temporary Excel files
+~$*.xlsx
