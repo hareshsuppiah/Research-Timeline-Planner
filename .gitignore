@@ -36,3 +36,6 @@ ehthumbs.db
 # Documentation files to exclude
 SETUP_COMPLETE.md
 SCREENSHOT_INSTRUCTIONS.md
+GIT_SETUP.md
+VIDEO_TUTORIAL.md
+**/VIDEO_TUTORIAL.md
