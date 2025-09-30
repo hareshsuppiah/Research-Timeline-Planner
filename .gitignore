@@ -1,0 +1,34 @@
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+*.tmp
+
+# Excel backup files
+*.xlk
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+Thumbs.db
+
+# Windows system files
+Desktop.ini
+ehthumbs.db
+
+# Backup files
+*.bak
+*.backup
+
+# Log files
+*.log
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
