@@ -1,6 +1,6 @@
 # 📊 Research Timeline Planner with Gantt Chart
 
-**A powerful Excel-based tool for planning and tracking complex multi-year research projects with automatic visual timelines.**
+**An Excel-based tool for planning and tracking multi-year research projects with visual timelines.**
 
 Perfect for PhD students, postdocs, research teams, and anyone managing complex academic research with multiple milestones and deliverables.
 
@@ -45,7 +45,6 @@ Perfect for PhD students, postdocs, research teams, and anyone managing complex 
 - [Version History](#-version-history)
 - [Contributing](#-contributing)
 - [License](#-license)
-- [Contact](#-contact)
 
 ---
 
@@ -83,11 +82,11 @@ This tool is designed for researchers at all career stages who need to plan and 
 
 ## ✨ Key Features
 
-### 🎨 **Automatic Visual Gantt Chart**
-Timeline automatically updates when you change start/end dates. No manual drawing required.
+### 🎨 **Visual Gantt Chart**
+Timeline updates when you change start/end dates. No manual drawing required.
 
 ### 📂 **Hierarchical Structure**
-Organize your work into **Projects** → **Milestones** → **Subtasks** for crystal-clear planning.
+Organize your work into **Projects** → **Milestones** → **Subtasks** for clear planning.
 
 ### 🚦 **Color-Coded Status Tracking**
 - **Status dropdown:** Confirmed (🟢 Green) / Tentative (🟡 Yellow) / At Risk (🔴 Red)
@@ -105,8 +104,8 @@ Uses real Excel dates (MMM-YY format) with smart formulas for reliable month-bas
 ### 🔧 **Smart Formulas**
 Uses `EOMONTH` function for accurate month-based Gantt chart logic.
 
-### 📖 **Comprehensive Instructions**
-Includes detailed instruction sheet with customization tips and troubleshooting.
+### 📖 **Instructions**
+Includes instruction sheet with customization tips and troubleshooting.
 
 ### 🎯 **Pre-Populated Example**
 Comes with a complete PhD confirmation example you can adapt or replace.
@@ -390,16 +389,6 @@ See [LICENSE](LICENSE) for full details.
 
 ---
 
-## 📬 Contact
-
-**Creator:** Haresh Suppiah
-
-- 🌐 **GitHub:** [@hareshsuppiah](https://github.com/hareshsuppiah)
-- 📧 **Email:** [your-email@example.com] *(Update with your actual email)*
-- 💼 **LinkedIn:** [Add your LinkedIn if desired]
-
----
-
 ## 🌟 Found This Useful?
 
 If this tool helped your research planning, consider:
@@ -407,18 +396,6 @@ If this tool helped your research planning, consider:
 - 🔗 **Sharing** with colleagues and students
 - 💬 **Providing feedback** via GitHub issues
 - 🤝 **Contributing** improvements back to the project
-
----
-
-## 📸 Screenshot Instructions
-
-**For maintainers:** After taking screenshots:
-1. Take a screenshot of the Excel file showing both the task list and Gantt chart
-2. Save as `screenshot.png` in the repository root
-3. (Optional) Take a second screenshot showing the color-coded dropdown menus in action
-4. Save as `screenshot-dropdowns.png` if creating a second image
-5. Commit and push both images to the repository
-6. Update this README to reference additional screenshots if added
 
 ---
 
