@@ -6,7 +6,7 @@ Perfect for PhD students, postdocs, research teams, and anyone managing complex 
 
 ---
 
-![Research Timeline Planner Screenshot](screenshot.png)
+![Research Timeline Planner Screenshot](CleanShot%202025-09-30%20at%2014.17.09@2x.png)
 *Example showing a PhD timeline with confirmation subtasks, study planning, and automatic Gantt chart visualization*
 
 ---
