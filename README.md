@@ -6,8 +6,8 @@ Perfect for PhD students, postdocs, research teams, and anyone managing complex 
 
 ---
 
-![Research Timeline Planner Screenshot](CleanShot%202025-10-01%20at%2008.26.32@2x.png)
-*Example showing a PhD timeline with confirmation subtasks, study planning, and automatic Gantt chart visualization*
+![Research Timeline Planner Demo](FocuSee%20Project%202025-09-30%2019-19-33_1.gif)
+*Animated demo showing the Research Timeline Planner in action with automatic Gantt chart updates*
 
 ---
 
