@@ -7,7 +7,8 @@ Perfect for PhD students, postdocs, research teams, and anyone managing complex 
 ---
 
 ![Research Timeline Planner Demo](FocuSee%20Project%202025-09-30%2019-19-33_1.gif)
-*Animated demo showing the Research Timeline Planner in action with automatic Gantt chart updates*
+
+<sub>*Animated demo showing the Research Timeline Planner in action with automatic Gantt chart updates*</sub>
 
 ---
 
